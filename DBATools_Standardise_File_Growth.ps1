@@ -4,7 +4,7 @@
 # VERSION: 1.00
 # PLATFORM: Windows Powershell
 # PURPOSE: This script goes through each DB and sets all user db's to pre configured best practice autogrow settings
-# because every workload is different these can also be adjusted.
+# because every workload is different these can also be adjusted. #github test
 
 # USAGE:
 # 1: Run script ensuring $servers variable is populated.
